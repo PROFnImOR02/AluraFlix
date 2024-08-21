@@ -7,7 +7,7 @@ body {
 }
 
 header /*cabeçalho*/ {
-    border-bottom: solid 2px rgb(42, 122, 228); /*cor da borda/
+    border-bottom: solid 2px rgb(42, 122, 228); /*cor da borda*/
     padding: 20px;
     font-size: 32px;
     color: #d82ae4; /*ou rgb(42, 122, 228)*/
