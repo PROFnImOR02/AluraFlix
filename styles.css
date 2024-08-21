@@ -5,12 +5,12 @@ body {
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
-
-header /*cabeçalho*/ {
+ /*cabeçalho*/
+header {
     border-bottom: solid 2px rgb(42, 122, 228); /*cor da borda*/
     padding: 20px;
     font-size: 32px;
-    color: #d82ae4; /*ou rgb(42, 122, 228)*/
+    color: rgb(216, 42, 228);
 }
 
 .chamada {
