@@ -10,7 +10,7 @@ header /*cabeçalho*/ {
     border-bottom: solid 2px rgb(42, 122, 228); /*cor da borda/
     padding: 20px;
     font-size: 32px;
-    color: #2a7ae4; /*ou rgb(42, 122, 228)*/
+    color: #d82ae4; /*ou rgb(42, 122, 228)*/
 }
 
 .chamada {
@@ -18,7 +18,7 @@ header /*cabeçalho*/ {
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify-content: center;
+    justify-content: center; /*centralizar*/
 }
 
 .chamada-texto {
