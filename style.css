@@ -6,11 +6,11 @@ body {
     margin-bottom: 100px;
 }
 
-header {
-    border-bottom: solid 2px rgb(42, 122, 228); /*cor do fundo*/
+header /*cabeçalho*/ {
+    border-bottom: solid 2px rgb(42, 122, 228); /*cor da borda/
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228); /*cor do fundo*/
+    color: #2a7ae4; /*ou rgb(42, 122, 228)*/
 }
 
 .chamada {
